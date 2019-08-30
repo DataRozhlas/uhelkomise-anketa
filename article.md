@@ -15,11 +15,8 @@ Komise je podle svého [statutu](https://www.mzp.cz/C1257458002F0DC7/cz/news_201
 
 S výjimkou jediné pozice – zástupce parlamentního výboru pro životní prostředí, který se sejde až po sněmovních prázdninách – mají už všechna křesla konkrétní jména. Oslovili jsme proto členy komise se dvěma dotazy na jejich působení v komisi:
 
-
-<ol>
-<i><li style="padding-left: 20px !important">Co chcete v uhelné komisi prosadit?</li></i>
-<i><li style="padding-left: 20px !important">Ve které dekádě by mělo Česko odstoupit od uhlí, a proč?</li></i>
-</ol>
+* Co chcete v uhelné komisi prosadit?
+* Ve které dekádě by mělo Česko odstoupit od uhlí, a proč?
 
 Pětice dotázaných – včetně ministra životního prostředí Richarda Brabce (ANO) – ani po urgenci nereagovala, odpovědi ostatních najdete zde.
 
