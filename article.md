@@ -1,38 +1,54 @@
-title: "Data z mobilů:<br>Praha se denně nafoukne o polovinu, v centru jsou návštěvníci v převaze"
-perex: "Skoro 140 tisíc lidí přijede do Prahy každý den za prací. Míří hlavně do kancelářských budov a do centra města. S nimi pak dorazí i přes půl milionu návštěvníků. Ukázala to analýza dat o pohybu mobilních telefonů, kterou si nyní město nechává zpracovat."
-coverimg: https://interaktivni.rozhlas.cz/brexit/media/cover.jpg
-coverimg_note: "Foto <a href='https://ctk.cz'>ČTK</a>"
+title: "Anketa: Co chcete prosadit v uhelné komisi? Odbornou diskuzi bez ideologie, shodují se členové"
+perex: "Minulé pondělí vláda představila členy komise, která má rozhodnout o „uhelném exitu“. Z devatenácti křesel obsadili jedenáct politici, čtyři zástupci odborů a firem, dvě ekologové a dvě vědci."
+coverimg: "https://www.irozhlas.cz/sites/default/files/styles/zpravy_snowfall/public/uploader/2018-02-20t204946z_7_180228-135843_haf.jpg?itok=p9N-OkDa"
+coverimg_note: "Uhlí, ilustrační foto. Foto Valentyn Ogirenko, Reuters"
 styles: []
 libraries: [] #jquery, d3, highcharts, datatables
-options: [noheader] #wide, noheader (, nopic)
+options: [] #wide, noheader (, nopic)
 ---
-<left>
-	<p>
-	<b>KAREL HYNEK MÁCHA</b>
-	</p><p>
-	Karel Hynek Mácha (16. listopadu 1810 Praha-Malá Strana[1] – 6. listopadu 1836 Litoměřice[2]) byl český básník a prozaik, představitel českého romantismu a zakladatel moderní české poezie. Proslavil se jak svým životem, tak dílem, jemuž dominuje Máj (1836).
-	</p>
-</left>
 
-Během dne se lidé v Praze soustřeďují v okolí administrativních center a obchodů, po poledni se tak nejvíc zahustí okolí Andělu, centrum Prahy (Vodičkova ulice a Petrské náměstí) a Brumlovka nedaleko Budějovické. Na poslední jmenované adrese sídlí řada velkých korporací, mezi nimi i Microsoft nebo ČEZ. Pro srovnání, na zmíněných místech je ve "špičce" okolo šesti stovek osob na jeden hektar, průměr Prahy je 25 obyvatel na [hektar](https://cs.wikipedia.org/wiki/Hektar) (Václavské náměstí má rozlohu asi 4 hektary).
+Minulé pondělí se poprvé sešla skupina expertů s cílem stanovit datum, kdy Česko kvůli klimatické změně skončí s pálením uhlí. Rozhodnout má nejpozději příští září.
 
-Naopak v noci se nejvíc lidí se "namačká" ve Vršovicích, jde o 430 osob na hektar.
+Mezi devatenácti členy komise převažují vrcholoví politici: předsedají jí ministr průmyslu Karel Havlíček (nestraník, ministr za ANO) a ministr životního prostředí Richard Brabec (ANO). Vláda a parlament obsadili ještě další čtyři křesla, tři místa získali hejtmani nebo náměstci krajů, kterých se útlum těžby a spalování dotkne nejvíce. Lokální politiky zastupuje starosta Kynšperka nad Ohří na Sokolovsku.
 
-Detaily si můžete prohlédnout v následující mapě, kterou z dat mobilních operátorů zpracoval pražský [Institut plánování a rozvoje](http://www.iprpraha.cz/).
+Komise je podle svého [statutu](https://www.mzp.cz/C1257458002F0DC7/cz/news_20190730-uhelna-komise/$FILE/Statut_UK.pdf) poradním orgánem vlády, její doporučení nebude závazné. Inspirovala se v Německu, kde uhelná komise letos v únoru doporučila _uhelný exit_ do roku 2038 s možností posunout konec uhlí na dřívější datum, o které bude diskutovat každé tři roky.
 
-<wide><i>Pokud vás zajímá, "kolik" lidí bývá ve dne a v noci ve vaší čtvrti, najděte si ji na mapě, přepněte se na časové řezy, vyberte přepínač hustota osob a potom pohybujte "posuvníkem" nahoře.</i></wide>
+S výjimkou jediné pozice – zástupce parlamentního výboru pro životní prostředí, který se sejde až po sněmovních prázdninách – mají už všechna křesla konkrétní jména. Oslovili jsme proto členy komise se dvěma dotazy na jejich působení v komisi:
 
-## Data na prodej
-<right>
-	<p>
-	<b>KAREL HYNEK MÁCHA</b>
-	</p><p>
-	Karel Hynek Mácha (16. listopadu 1810 Praha-Malá Strana[1] – 6. listopadu 1836 Litoměřice[2]) byl český básník a prozaik, představitel českého romantismu a zakladatel moderní české poezie. Proslavil se jak svým životem, tak dílem, jemuž dominuje Máj (1836).
-	</p>
-</right>
 
-I pokud netelefonujeme nebo neposíláme SMS, telefon pravidelně komunikuje s vysílači v síti mobilního operátora. Z dat o síle signálu a použité anténě je možné odvodit, kde se přibližně telefon nachází a jak dlouhou dobu na místě strávil.
+<ol>
+<i><li style="padding-left: 20px !important">Co chcete v uhelné komisi prosadit?</li></i>
+<i><li style="padding-left: 20px !important">Ve které dekádě by mělo Česko odstoupit od uhlí, a proč?</li></i>
+</ol>
 
-Mobilní operátor má ["zákonnou povinnost"](https://www.zakonyprolidi.cz/cs/2005-127/zneni-20160919#p97-3) takové informace uchovávat, a to půl roku do minulosti, přistupovat k nim ale mohou jen bezpečnostní složky, typicky policie nebo rozvědka.
+Pětice dotázaných – včetně ministra životního prostředí Richarda Brabce (ANO) – ani po urgenci nereagovala, odpovědi ostatních najdete zde.
 
-Operátoři ale obdobné informace mohou anonymizovat (tedy "zbavit" identifikace konkrétního uživatele) a agregovat, tedy spojit informace o jednotlivcích do jakýchsi skupin. Výsledná obecná čísla pak přeprodávají dál, například marketingovým firmám či dopravním analytikům. Zpětně z nich nejde dovodit, kde se pohybuje každý jednotlivec, dávají ale určitý přehled o obecném chování obyvatel nějakého místa.
+<wide>
+<div id="anketa-wrapper"></div>
+</wide>
+
+## Odborně, neideologicky
+
+„Na útlum těžby se musíme podívat výhradně z odborného, nepolitického pohledu,“ řekl ČTK po první schůzce komise ministr Brabec.
+
+Na nutnosti odborného, „neideologického“, dialogu, se členové komise vesměs shodují. Proto také většinou odmítli otázku na datum uhelného exitu s tím, že jej určí až společné usnesení.
+
+„Dekáda odklonu od uhlí vyplyne z jednání komise,“ odpověděl například na dotazy redakce iROZHLAS.cz Jaromír Franta, nominovaný za ČMKOS. „Jak jasně deklarovali oba předsedové, bude to bez vlivu ideologie, politiky a na základě reálných možnosti ČR naplnit v následujících desítkách let energetický mix.“
+
+Franta, který je od roku 2008 členem dozorčí rady Severočeské energetické podnikatele Pavla Tykače a komunikuje z emailové adresy stejné společnosti, nicméně v jiných médiích proti odstavení uhelných elektráren ostře vystupuje.
+
+„V žádném případě bychom se neměli dohadovat o názorech odtržených od reality, kterými nás obtěžují zelení fanatici, například, že se český energetický mix obejde zcela bez uhlí. To by byla jen ztráta času,“ upřesňoval svou roli v komisi v článku [Uhelná komise nesmí pracovat v režii ekologů]( https://iuhli.cz/uhelna-komise-nesmi-pracovat-v-rezii-ekologu/).
+
+Podobně ambivalentní roli zastává také Daniel Beneš, nominovaný jako viceprezident Svazu průmyslu a dopravy. Jako generální ředitel ČEZ zároveň zastupuje zájmy polostátní firmy, která vyrábí asi polovinu české fosilní elektřiny.
+
+## Rok 2040 bez uhlí?
+
+„V komisi máme zástupce z oblasti těžby, zaměstnavatelských svazů, odborů, regionů, ale i ekologů a akademiků, takže je zcela vyvážená,“ řekl ČTK po prvním jednání ministr průmyslu Havlíček.
+
+„Inspirací je nám fungování uhelné komise v Německu,“ doplnil ho druhý z předsedů sboru, ministr životního prostředí Richard Brabec.
+
+Samotné složení komise ovšem tu německou příliš nepřipomíná. Mezi 28 členy tamější komise sice také převažovali politici, ale doplňovalo je XXX ekologů, zelených politiků a vědců s ekologickým nebo sociálním zaměřením ([složení komise angl.](https://www.cleanenergywire.org/factsheets/german-commission-proposes-coal-exit-2038)).
+
+Jiří Koželouh z Hnutí Duha, jeden ze dvou ekologů v komisi, je nicméně optimistický.
+
+„K roku 2040 už by uhlí být nemělo,“ řekl po prvním jednání v pořadu [Dvacet minut Radiožurnálu](https://www.irozhlas.cz/zpravy-domov/uhelna-komise-konec-tezby-uhli-konec-uhelnych-elektraren_1908271929_jak). „Nechci mluvit za všechny členy komise. Padlo ale, že rok 2050 je nereálný, rozhodně to musí být dřív. Což je významný posun oproti minulosti,“ zdůraznil.

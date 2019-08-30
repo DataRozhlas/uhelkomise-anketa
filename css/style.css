@@ -1,0 +1,101 @@
+#anketa {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+}
+
+.respondent {
+  width: 240px;
+  padding: 10px;
+  margin-bottom: 20px;
+}
+
+.portret {
+  width: 100px;
+  height: 100px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 2px;
+  border-radius: 50%;
+}
+
+.bio {
+  text-align: center;
+  background-color: #F5F5F5;
+  margin-bottom: 3px;
+  font-size: 85%;
+  color: black !important;
+  font-style: normal !important;
+}
+
+.jmeno {
+  font-weight: bold;
+}
+
+.odpoved1 {
+  font-size: 80%;
+  color: black;
+  margin-top: 0px;
+  margin-bottom: 10px;
+}
+
+.odpoved2 {
+  font-size: 80%;
+  color: black;
+  margin-top: 0px;
+  margin-bottom: 1px;
+}
+
+.red {
+  color: #de2d26;
+  font-weight: bold;
+ }
+
+.blue {
+  color: #31a354;
+  font-weight: bold;
+ }
+
+.lgray {
+   color: #737373;
+   font-style: italic;
+ }
+
+.gray_n {
+  color: #525252;
+  font-weight: bold;
+}
+
+.red_b {
+  background-color: #fc9272;
+}
+
+.blue_b {
+  background-color: #9ecae1;
+}
+
+.green_b {
+  background-color: #a1d99b;
+}
+
+.orange_b {
+  background-color: #fdae6b;
+}
+
+.purple_b {
+  background-color: #bcbddc;
+}
+
+.gray {
+  font-weight: bold;
+  color: #525252;
+}
+
+.row-main--narrow img {
+  width: 100%;
+}
+
+norm {
+  font-weight: normal !important;
+}
