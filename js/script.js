@@ -9,13 +9,15 @@ if (window.location.hostname === "localhost") {
 }
 
 function whatCol(val) {
-  if (val === "politici") {
+  if (val === "politik") {
     return "blue";
-  } else if (val === "zaměstanecké organizace") {
+  } else if (val === "ústřední úřad") {
+    return "brown"
+  }else if (val === "odbory a zaměstnavatelé") {
     return "red"
-  } else if (val === "ekologové") {
+  } else if (val === "ekolog") {
     return "green"
-  } else if (val === "regiony") {
+  } else if (val === "regionální politik") {
     return "orange"
   } else if (val === "univerzity") {
     return "purple"
