@@ -16,14 +16,15 @@
   display: block;
   margin-left: auto;
   margin-right: auto;
-  margin-bottom: 2px;
+  margin-bottom: 10px;
   border-radius: 50%;
+
 }
 
 .bio {
   text-align: center;
-  background-color: #F5F5F5;
-  margin-bottom: 3px;
+  background-color: #DDDDDD;
+  margin-bottom: 5px;
   font-size: 85%;
   color: black !important;
   font-style: normal !important;

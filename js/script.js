@@ -5,11 +5,11 @@ import { byeIE } from "./byeie";
 byeIE()
 let host = "https://data.irozhlas.cz";
 if (window.location.hostname === "localhost") {
-  host = "http://localhost";
+  host = "http://localhost:8888";
 }
 
 function whatCol(val) {
-  if (val === "ústřední instituce") {
+  if (val === "politici") {
     return "blue";
   } else if (val === "zaměstanecké organizace") {
     return "red"
@@ -29,11 +29,12 @@ function onLoad(e) {
       {data.map(el => (
         <div className="respondent">
           <img className="portret" src={`${host}/uhelkomise-anketa/img/${el.img}`} alt={el.jm} />
-          <div className={`${whatCol(el.k)}_b bio`}>
+          <div className={`${whatCol(el.k)}_b bio`}>{`${el.k}`}</div>
+          <div className="bio">
             <div className="jmeno">{`${el.j} ${el.p}`}</div>
             <div className="funkce">{el.f}</div>
           </div>
-          <div className={`odpoved1`}>{el.o1 || "bez odpovědi"}</div>
+          <div className={`odpoved1`}>{el.o1 || "Bez odpovědi"}</div>
           <div className={`odpoved2`}>{el.o2}</div>
         </div>
       ))}
