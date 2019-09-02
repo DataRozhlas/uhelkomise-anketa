@@ -11,14 +11,14 @@ Minulé pondělí se poprvé sešla skupina expertů s cílem stanovit datum, kd
 
 Mezi devatenácti členy komise převažují vrcholoví politici: předsedají jí ministr průmyslu Karel Havlíček (nestraník, ministr za ANO) a ministr životního prostředí Richard Brabec (ANO). Vláda a parlament obsadili ještě další čtyři křesla, tři místa získali hejtmani nebo náměstci krajů, kterých se útlum těžby a spalování dotkne nejvíce. Lokální politiky zastupuje starosta Kynšperka nad Ohří na Sokolovsku.
 
-Komise je podle svého [statutu](https://www.mzp.cz/C1257458002F0DC7/cz/news_20190730-uhelna-komise/$FILE/Statut_UK.pdf) poradním orgánem vlády, její doporučení nebude závazné. Inspirovala se v Německu, kde uhelná komise letos v únoru doporučila _uhelný exit_ do roku 2038 s možností posunout konec uhlí na dřívější datum, o které bude diskutovat každé tři roky.
+Komise je podle svého [statutu](https://www.mzp.cz/C1257458002F0DC7/cz/news_20190730-uhelna-komise/$FILE/Statut_UK.pdf) poradním orgánem vlády, její doporučení nebude závazné. Inspirovala se v Německu, kde uhelná komise letos v únoru [doporučila _uhelný exit_ do roku 2038](https://www.irozhlas.cz/ekonomika/nemecko-uhli-fosilni-palivo-elektrarna-energie_1901260753_och) s možností posunout konec uhlí na dřívější datum, o které bude diskutovat každé tři roky.
 
 S výjimkou jediné pozice – zástupce parlamentního výboru pro životní prostředí, který se sejde až po sněmovních prázdninách – mají už všechna křesla konkrétní jména. Oslovili jsme proto členy komise se dvěma dotazy na jejich působení v komisi:
 
 * Co chcete v uhelné komisi prosadit?
 * Ve které dekádě by mělo Česko odstoupit od uhlí, a proč?
 
-Pětice dotázaných – včetně ministra životního prostředí Richarda Brabce (ANO) – ani po urgenci nereagovala, odpovědi ostatních najdete zde.
+Dva z dotázaných ani po urgenci nereagovali, odpovědi ostatních najdete zde.
 
 <wide>
 <div id="anketa-wrapper"></div>
@@ -34,7 +34,7 @@ Na nutnosti odborného, „neideologického“, dialogu, se členové komise ves
 
 Franta, který je od roku 2008 členem dozorčí rady Severočeské energetické podnikatele Pavla Tykače a komunikuje z emailové adresy stejné společnosti, nicméně v jiných médiích proti odstavení uhelných elektráren ostře vystupuje.
 
-„V žádném případě bychom se neměli dohadovat o názorech odtržených od reality, kterými nás obtěžují zelení fanatici, například, že se český energetický mix obejde zcela bez uhlí. To by byla jen ztráta času,“ upřesňoval svou roli v komisi v článku [Uhelná komise nesmí pracovat v režii ekologů]( https://iuhli.cz/uhelna-komise-nesmi-pracovat-v-rezii-ekologu/).
+„V žádném případě bychom se neměli dohadovat o názorech odtržených od reality, kterými nás obtěžují zelení fanatici, například, že se český energetický mix obejde zcela bez uhlí. To by byla jen ztráta času,“ upřesňoval svou roli v komisi v článku [Uhelná komise nesmí pracovat v režii ekologů](https://iuhli.cz/uhelna-komise-nesmi-pracovat-v-rezii-ekologu/).
 
 Podobně ambivalentní roli zastává také Daniel Beneš, nominovaný jako viceprezident Svazu průmyslu a dopravy. Jako generální ředitel ČEZ zároveň zastupuje zájmy polostátní firmy, která vyrábí asi polovinu české fosilní elektřiny.
 
@@ -44,7 +44,7 @@ Podobně ambivalentní roli zastává také Daniel Beneš, nominovaný jako vice
 
 „Inspirací je nám fungování uhelné komise v Německu,“ doplnil ho druhý z předsedů sboru, ministr životního prostředí Richard Brabec.
 
-Samotné složení komise ovšem tu německou příliš nepřipomíná. Mezi 28 členy tamější komise sice také převažovali politici, ale doplňovalo je XXX ekologů, zelených politiků a vědců s ekologickým nebo sociálním zaměřením ([složení komise angl.](https://www.cleanenergywire.org/factsheets/german-commission-proposes-coal-exit-2038)).
+Samotné složení komise ovšem tu německou příliš nepřipomíná. Mezi 28 členy tamější komise mělo hlasovací právo pouze pět čistokrevných politiků. Jedenáct míst – téměř polovinu – obsadili vědci a ekologové ([složení komise angl.](https://www.cleanenergywire.org/factsheets/germanys-coal-exit-commission)). Federální i regionální ministerstva sice v komisi také měla prostor, ale bez hlasovacího práva.
 
 Jiří Koželouh z Hnutí Duha, jeden ze dvou ekologů v komisi, je nicméně optimistický.
 
