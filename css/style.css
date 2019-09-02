@@ -104,3 +104,49 @@
 norm {
   font-weight: normal !important;
 }
+
+#container {
+    display: flex;
+    align-items: center;
+    height: 800px;
+    max-height: 80vh;
+}
+
+#mapa {
+    width: 50%;
+    height: 100%;
+}
+
+#tooltip {
+    width: 50%;
+    font-size: 85%;
+    height: 100%;
+}
+
+.loading {
+    margin-top: 10em;
+    text-align: center;
+    color: gray;
+}
+
+.f32 .flag {
+    vertical-align: middle !important;
+}
+
+@media only screen and (max-width: 800px) {
+    #container {
+        flex-wrap: wrap;
+        max-height: initial;
+        height: initial;
+    }
+
+    #mapa {
+        width: 100%;
+        height: 80vh;
+    }
+
+    #tooltip {
+        width: 100%;
+        height: 100%;
+    }
+};

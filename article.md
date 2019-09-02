@@ -1,15 +1,19 @@
 title: "Politici hledají s podnikateli, ekology a vědci cestu k „uhelnému exitu“. Jak ho chtějí dosáhnout?"
-perex: "Vláda premiéra Andreje Babiše z hnutí ANO minulý týden představila členy komise, která má rozhodnout o českém „uhelném exitu“. Na jedenáct z celkem devatenácti křesel usedli politici, čtyři pak obsadili zástupci odborů a firem, dvě ekologové a dvě vědci. Server iROZHLAS.cz je oslovil s dotazy, čeho chtějí dosáhnout."
+perex: "Vláda premiéra Andreje Babiše z hnutí ANO minulý týden představila členy komise, která má rozhodnout o českém „uhelném exitu“. Na deset z celkem devatenácti křesel usedli politici, čtyři pak obsadili zástupci odborů a firem, dvě ekologové a dvě vědci. Server iROZHLAS.cz je oslovil s dotazy, čeho chtějí dosáhnout."
 coverimg: "https://www.irozhlas.cz/sites/default/files/styles/zpravy_snowfall/public/uploader/2018-02-20t204946z_7_180228-135843_haf.jpg?itok=p9N-OkDa"
 coverimg_note: "Uhlí, ilustrační foto. Foto Valentyn Ogirenko, Reuters"
-styles: []
-libraries: [] #jquery, d3, highcharts, datatables
-options: [] #wide, noheader (, nopic)
+styles: ["//github.com/downloads/lafeber/world-flags-sprite/flags32.css"]
+libraries: [jquery, highcharts, "https://code.highcharts.com/maps/7.1.0/modules/map.js", "https://code.highcharts.com/mapdata/custom/europe.js"]
+options: []
 ---
 
 Skupina se poprvé sešla minulé pondělí, a to s cílem stanovit datum, kdy Česko kvůli klimatické změně skončí s pálením uhlí. Rozhodnutí má padnout nejpozději v září 2020.
 
 Komise je podle svého [statutu](https://www.mzp.cz/C1257458002F0DC7/cz/news_20190730-uhelna-komise/$FILE/Statut_UK.pdf) poradním orgánem vlády a její doporučení nebude závazné. Inspirovala se v Německu, kde uhelná komise letos v únoru [doporučila „uhelný exit“ do roku 2038](https://www.irozhlas.cz/ekonomika/nemecko-uhli-fosilni-palivo-elektrarna-energie_1901260753_och) s možností posunout konec uhlí na dřívější datum, o kterém bude diskutovat každé tři roky.
+
+<left>
+<h3>Západ Evropy se s uhlím loučí, na východě se uhelné elektrárny staví. Zmapovali jsme plány vlády i ČEZ</h3>
+</left>
 
 Mezi členy komise převažují vrcholní politici: předsedají jí ministr průmyslu Karel Havlíček (nestraník, ministr za ANO) a ministr životního prostředí Richard Brabec (ANO). Zástupci vlády a Parlamentu obsadili ještě čtyři křesla, další tři místa získali hejtmani nebo náměstci krajů, kterých se útlum těžby a spalování dotkne nejvíce. Lokální politiky pak zastupuje starosta Kynšperka nad Ohří na Sokolovsku.
 
@@ -49,3 +53,10 @@ Samotné složení komise ovšem tu německou příliš nepřipomíná. Mezi 28 
 Jiří Koželouh z Hnutí Duha, jeden ze dvou ekologů v komisi, je nicméně optimistický.
 
 „K roku 2040 už by uhlí být nemělo,“ řekl po prvním jednání v pořadu [Dvacet minut Radiožurnálu](https://www.irozhlas.cz/zpravy-domov/uhelna-komise-konec-tezby-uhli-konec-uhelnych-elektraren_1908271929_jak). „Nechci mluvit za všechny členy komise. Padlo ale, že rok 2050 je nereálný, rozhodně to musí být dřív. Což je významný posun oproti minulosti,“ zdůraznil.
+
+<wide>
+<div id="container">
+<div id="mapa"></div>
+<div id="tooltip"></div>
+</div>
+</wide>
