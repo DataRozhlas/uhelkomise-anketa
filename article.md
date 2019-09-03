@@ -9,11 +9,12 @@ options: []
 
 Skupina se poprvé sešla minulé pondělí, a to s cílem stanovit datum, kdy Česko kvůli klimatické změně skončí s pálením uhlí. Rozhodnutí má padnout nejpozději v září 2020.
 
-Komise je podle svého [statutu](https://www.mzp.cz/C1257458002F0DC7/cz/news_20190730-uhelna-komise/$FILE/Statut_UK.pdf) poradním orgánem vlády a její doporučení nebude závazné. Inspirovala se v Německu, kde uhelná komise letos v únoru [doporučila „uhelný exit“ do roku 2038](https://www.irozhlas.cz/ekonomika/nemecko-uhli-fosilni-palivo-elektrarna-energie_1901260753_och) s možností posunout konec uhlí na dřívější datum, o kterém bude diskutovat každé tři roky.
+<right>
+<h3><a href="https://www.irozhlas.cz/zpravy-domov/uhli-klima-cez-energetika-obnovitelne-zdroje_1904020600_jab">Západ Evropy se s uhlím loučí, na východě se uhelné elektrárny staví. Zmapovali jsme plány vlády i ČEZ</a></h3>
+<img src="https://dev.datarozhlas.cz/uhelkomise-anketa/img/foto.jpg" style="max-width:200px; margin-top: 15px">
+</right>
 
-<left>
-<h3>Západ Evropy se s uhlím loučí, na východě se uhelné elektrárny staví. Zmapovali jsme plány vlády i ČEZ</h3>
-</left>
+Komise je podle svého [statutu](https://www.mzp.cz/C1257458002F0DC7/cz/news_20190730-uhelna-komise/$FILE/Statut_UK.pdf) poradním orgánem vlády a její doporučení nebude závazné. Inspirovala se v Německu, kde uhelná komise letos v únoru [doporučila „uhelný exit“ do roku 2038](https://www.irozhlas.cz/ekonomika/nemecko-uhli-fosilni-palivo-elektrarna-energie_1901260753_och) s možností posunout konec uhlí na dřívější datum, o kterém bude diskutovat každé tři roky.
 
 Mezi členy komise převažují vrcholní politici: předsedají jí ministr průmyslu Karel Havlíček (nestraník, ministr za ANO) a ministr životního prostředí Richard Brabec (ANO). Zástupci vlády a Parlamentu obsadili ještě čtyři křesla, další tři místa získali hejtmani nebo náměstci krajů, kterých se útlum těžby a spalování dotkne nejvíce. Lokální politiky pak zastupuje starosta Kynšperka nad Ohří na Sokolovsku.
 
